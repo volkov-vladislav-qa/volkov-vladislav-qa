@@ -8,5 +8,5 @@
 - [E-commerce Tests](https://github.com/volkov-vladislav-qa/ecommerce-tests) — автоматизация тестирования интернет-магазина
 
 ### Контакты:
-- 📧 Email:wolf92rabota@gmail.com
+- 📧 Email: wolf92rabota@gmail.com
 
